@@ -15,4 +15,4 @@ let ageIsValid = Number.isInteger(currentAge);
 
 let randomNumber = Math.floor(Math.random() * 20) + 0;
 
-let randomInteger = randomNumber
+let randomInteger = Math.round(randomNumber);
