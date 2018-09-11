@@ -1,9 +1,10 @@
 /*
 Variables defined in the test suite:
-- oldID
+- old ID
 - currentAge
 
 You should NOT try to redefine any of the above variables.
 */
+const newID = 10
 
 // Write your code below this line!
